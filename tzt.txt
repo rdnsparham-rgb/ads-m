@@ -1,1 +1,1 @@
-https://id.configfars.workers.dev
+https://panel-id.configfars.workers.dev
